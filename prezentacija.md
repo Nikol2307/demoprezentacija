@@ -30,19 +30,19 @@ Grammarly je alat za provjeru gramatike, pravopisa i stila pisanja. Pomaže kori
 # Praktični primjeri korištenja
 
 ## Primjer 1: Pisanje tehničkog dokumenta
-![Grammarly dokument](atp/dokument.png)
+![Grammarly dokument](dokument.png)
 
 ---
 ## Primjer 2: Grammarly kao ekstenzija u pregledniku
-![Grammarly ekstenzija](atp/ekstenzija.png)
+![Grammarly ekstenzija](ekstenzija.png)
 
 ---
 ## Primjer 3: Grammarly desktop aplikacija
-![Grammarly dokument](atp/aplikacija.png)
+![Grammarly dokument](aplikacija.png)
 
 ---
 ## Primjer 4: Plagijat provjera
-![Grammarly dokument](atp/plagijat.png)
+![Grammarly dokument](plagijat.png)
 
 ---
 
